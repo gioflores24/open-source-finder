@@ -1,1 +1,9 @@
-pip install PyGithub
+certifi	
+chardet	
+idna		
+pip		
+requests	
+setuptools	
+six	
+urllib3	
+wrapt	
