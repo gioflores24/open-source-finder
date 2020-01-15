@@ -1,0 +1,25 @@
+{
+  "name": "open-source-finder",
+  "version": "1.0.0",
+  "description": "A service for finding targeted open-source projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gioflores24/open-source-finder.git"
+  },
+  "keywords": [
+    "open-source-projects"
+  ],
+  "author": "Giovanni Flores",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gioflores24/open-source-finder/issues"
+  },
+  "homepage": "https://github.com/gioflores24/open-source-finder#readme",
+  "dependencies": {
+    "@octokit/rest": "^16.35.2"
+  }
+}
